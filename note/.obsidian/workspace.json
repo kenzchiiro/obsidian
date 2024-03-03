@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "31c10031d46e971e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4845b8a8a0d18d23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c7b1b43fc6029ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CH 1 - Clean Code/1 - There Will Be Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "561a3f6dbe3f79f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2bd8e820cb53f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c18ae3b768fd28cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c37667b4a6fbbc8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "738e712d8ec323a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.500732421875
+  },
+  "right": {
+    "id": "c44c3c970da5d02d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ace2721b79ee534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab05a921741464f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CH 1 - Clean Code/1 - There Will Be Code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d17baea77949c01b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CH 1 - Clean Code/1 - There Will Be Code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d18dbfcff8f5fcee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60a2a9ac0c8e6129",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CH 1 - Clean Code/1 - There Will Be Code.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6c7b1b43fc6029ec",
+  "lastOpenFiles": [
+    "Clean Code.pdf",
+    "CH 1 - Clean Code/7 - Conclusion.md",
+    "CH 1 - Clean Code/2 - Bad Code.md",
+    "CH 1 - Clean Code/1 - There Will Be Code.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-02-18 18.39.38.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-02-18 18.26.14.excalidraw.md",
+    "CH 1 - Clean Code/6 - Prequel and Principles.md",
+    "CH 1 - Clean Code/4 - Schools of Thought.md",
+    "CH 1 - Clean Code/5 - We Are Authors.md",
+    "CH 1 - Clean Code/3 - The Total Cost of Owning a Mess.md",
+    "Clean Code/Intro.md",
+    "CH 1 - Clean Code",
+    "20220105090440_หนังสือแจ้งความประสงค์นำส่งข้อมูลเกี่ยวกับดอกเบี้ยเงินกู้ยืมที่อยู่อาศัยให้.pdf"
+  ]
+}
